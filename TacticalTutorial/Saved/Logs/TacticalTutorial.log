@@ -1501,3 +1501,470 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.06.19-03.27.53:998][464]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 64% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.06.19-03.27.54:781][466]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.06.19-03.27.55:414][469]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.06.19-03.28.41:960][662]LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - 微软拼音 (TSF IME).
+[2025.06.19-03.28.47:082][935]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2025.06.19-03.28.47:082][935]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2025.06.19-03.28.47:082][935]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2025.06.19-03.28.47:082][935]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: URL: C:\Users\22496\AppData\Local/Programs/Git/cmd/git.exe version
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: URL: C:\Users\22496\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2025.06.19-03.28.47:083][935]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2025.06.19-03.29.04:535][205]LogSlate: Window '版本控制登录' being destroyed
+[2025.06.19-03.29.07:107][319]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-03.29.09:351][379]LogDerivedDataCache: C:/Users/22496/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.19-03.29.14:569][526]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-03.29.36:629][167]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-03.30.08:620][748]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.19-03.30.19:571][748]LogSlate: Window '新建关卡' being destroyed
+[2025.06.19-03.30.19:583][748]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.06.19-03.30.19:596][748]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-03.30.19:596][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-03.30.19:596][748]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.06.19-03.30.19:610][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.19-03.30.19:644][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.06.19-03.30.19:651][748]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.06.19-03.30.19:651][748]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_2
+[2025.06.19-03.30.19:704][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.19-03.30.19:713][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.06.19-03.30.19:714][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.19-03.30.19:714][748]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.117毫秒。
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: ================================================
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Total job queries 151, among them cache hits 5 (3.31%), DDC hits 107 (70.86%), Duplicates 4 (2.65%)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Tracking 142 distinct input hashes that result in 139 distinct outputs (97.89%)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: RAM used: 121.04 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Shaders Compiled: 35
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Jobs assigned 35, completed 35 (100%)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Time job spent in pending queue: average 10.93 s, longest 28.50 s
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Job execution time: average 11.81 s, max 27.13 s
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Job life time (pending + execution): average 22.74 s, max 37.16
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Shader code size: average 10.557 KiB, min 2.105 KiB, max 21.141 KiB
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.29 s
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.17%
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Jobs were issued in 25 batches (only local compilation was used), average 1.40 jobs/batch
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Average processing rate: 0.94 jobs/sec
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Total thread time: 178.227 s
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Total thread preprocess time: 1.742 s
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Percentage time preprocessing: 0.98%
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Effective parallelization: 4.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 13.74 sec, max 20.82 sec, min 9.99 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 12.04 sec, max 12.99 sec, min 11.10 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 10.21 sec, max 10.21 sec, min 10.21 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 7.98 sec, max 7.98 sec, min 7.98 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 6.90 sec, max 7.29 sec, min 6.51 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.85% of total time (compiled    4 times, average 13.74 sec, max 20.82 sec, min 9.99 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 20.26% of total time (compiled    3 times, average 12.04 sec, max 12.99 sec, min 11.10 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.74% of total time (compiled    2 times, average 6.90 sec, max 7.29 sec, min 6.51 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.53% of total time (compiled    3 times, average 4.47 sec, max 7.61 sec, min 2.34 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 5.73% of total time (compiled    1 times, average 10.21 sec, max 10.21 sec, min 10.21 sec)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: === Material stats ===
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Materials Translated:    126
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Material Translation Only: 0.03 s (26%)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: Material Cache Hits: 9 (7%)
+[2025.06.19-03.30.19:720][748]LogShaderCompilers: Display: ================================================
+[2025.06.19-03.30.28:276][  4]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.19-03.30.36:978][  4]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.06.19-03.30.36:995][  4]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.06.19-03.30.37:003][  4]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.06.19-03.30.42:668][  4]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Maps
+[2025.06.19-03.30.42:668][  4]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.06.19-03.31.00:764][  4]LogSlate: Window '将关卡另存为' being destroyed
+[2025.06.19-03.31.00:813][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Entry" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Maps/L_Entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.19-03.31.00:825][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.06.19-03.31.00:833][  4]LogSavePackage: Moving output files for package: /Game/Maps/L_Entry
+[2025.06.19-03.31.00:833][  4]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/L_Entry6653CB8B4BE940BC69E66193B5D4DECB.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Maps/L_Entry.umap'
+[2025.06.19-03.31.01:091][  4]LogFileHelpers: Saving map 'L_Entry' took 0.314
+[2025.06.19-03.31.01:091][  4]Cmd: MAP LOAD FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Maps/L_Entry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.06.19-03.31.01:097][  4]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-03.31.01:097][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-03.31.01:105][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.19-03.31.01:106][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.06.19-03.31.01:107][  4]LogStreaming: Display: FlushAsyncLoading(491): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.19-03.31.01:109][  4]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Entry'.
+[2025.06.19-03.31.01:109][  4]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-03.31.01:151][  4]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.19-03.31.01:158][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.06.19-03.31.01:161][  4]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.19-03.31.01:161][  4]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.056毫秒。
+[2025.06.19-03.31.01:203][  4]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-03.31.01:204][  4]LogContentValidation: Enabled validators:
+[2025.06.19-03.31.01:204][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-03.31.01:204][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-03.31.01:204][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-03.31.01:204][  4]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-03.31.01:204][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-03.31.01:204][  4]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-03.31.01:204][  4]AssetCheck: /Game/Maps/L_Entry 正在验证资产
+[2025.06.19-03.31.01:322][  7]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.06.19-03.31.30:350][944]LogSlate: External Image Picker: DecompressImage failed
+[2025.06.19-03.31.30:515][945]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.06.19-03.31.38:616][407]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.19-03.31.39:788][478]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates: 'E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.31.39:788][478]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/WorldPartition/UnitTests/ShapesFilter.umap: 'E:/Unreal Engine/UE_5.5/Engine/Content/WorldPartition/UnitTests/ShapesFilter.umap' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.31.43:089][676]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates/TimeOfDay_Default.umap: 'E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates/TimeOfDay_Default.umap' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.31.43:489][700]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates/VR-Basic.umap: 'E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates/VR-Basic.umap' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.31.52:971][264]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates: 'E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.31.52:971][264]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/WorldPartition/UnitTests/ShapesFilter.umap: 'E:/Unreal Engine/UE_5.5/Engine/Content/WorldPartition/UnitTests/ShapesFilter.umap' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.32.02:937][784]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates: 'E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.32.02:938][784]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/WorldPartition/UnitTests/ShapesFilter.umap: 'E:/Unreal Engine/UE_5.5/Engine/Content/WorldPartition/UnitTests/ShapesFilter.umap' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.32.09:431][169]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates: 'E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Templates' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.32.09:431][169]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/WorldPartition/UnitTests/ShapesFilter.umap: 'E:/Unreal Engine/UE_5.5/Engine/Content/WorldPartition/UnitTests/ShapesFilter.umap' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.32.11:332][282]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Entry.umap: 'E:/Unreal Engine/UE_5.5/Engine/Content/Maps/Entry.umap' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-03.32.29:132][808]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-03.32.29:142][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-03.32.29:147][808]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.06.19-03.32.29:147][808]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.06.19-03.32.29:148][808]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-03.32.29:151][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003068s)
+[2025.06.19-03.32.29:151][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.003133s)
+[2025.06.19-03.32.29:162][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.19-03.32.29:163][808]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-03.32.29:165][808]LogPlayLevel: PIE: World Init took: (0.002428s)
+[2025.06.19-03.32.29:166][808]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.06.19-03.32.29:166][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-03.32.29:166][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-03.32.29:166][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-03.32.29:166][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-03.32.29:166][808]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-03.32.29:166][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-03.32.29:166][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-03.32.29:166][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-03.32.29:166][808]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-03.32.29:167][808]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-03.32.29:167][808]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-03.32.29:169][808]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-03.32.29:264][808]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-03.32.29:264][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-03.32.29:264][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-03.32.29:264][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-03.32.29:265][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.06.19-03.32.29:265][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.06.19-03.32.29:267][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.06.19-03.32.29:268][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.06.19-03.32.29:268][808]LogInit: FAudioDevice initialized with ID 2.
+[2025.06.19-03.32.29:268][808]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_Entry'.
+[2025.06.19-03.32.29:268][808]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.06.19-03.32.29:273][808]LogLoad: Game class is 'GameModeBase'
+[2025.06.19-03.32.29:275][808]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-11.32.29
+[2025.06.19-03.32.29:275][808]LogWorld: Bringing up level for play took: 0.001636
+[2025.06.19-03.32.29:279][808]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.06.19-03.32.29:294][808]PIE: 登陆的服务器
+[2025.06.19-03.32.29:296][808]PIE: PIE总开始时间：0.157秒。
+[2025.06.19-03.32.36:357][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-03.32.36:358][ 21]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-03.32.36:358][ 21]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-03.32.36:358][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-03.32.36:371][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-03.32.36:375][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-03.32.36:384][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-03.32.36:384][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.06.19-03.32.36:384][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.06.19-03.32.36:387][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.06.19-03.32.36:391][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.06.19-03.32.36:437][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.06.19-03.32.37:890][ 61]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-03.32.41:990][275]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-03.32.53:835][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 339.956238
+[2025.06.19-03.32.54:835][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-03.32.54:835][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 340.623596, Update Interval: 302.673431
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5143955B-475B-75B9-17E9-B08106AA9583%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=7b9c68c34969bee53caaa38ef5c7d63b%7C85bbed09b360480ca73d341d4fd5189d%7C3665a601-c35a-4890-bd59-092f39924fe1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: request failed, libcurl error: 35 (SSL connect error)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 0 (Connection 2 seems to be dead)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 1 (Closing connection)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 8 (allocate connect buffer)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 10 (CONNECT phase completed)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 13 (SSL reusing session ID)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.06.19-03.33.14:840][603]LogHttp: Warning: 000008E4CD6AC400: libcurl info message cache 16 (Closing connection)
+[2025.06.19-03.35.35:131][791]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.06.19-03.35.35:137][791]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.06.19-03.35.35:146][792]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.06.19-03.35.56:294][ 75]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Blueprints
+[2025.06.19-03.35.56:295][ 75]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.06.19-03.36.00:545][201]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.06.19-03.36.00:554][201]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.06.19-03.36.00:580][203]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.06.19-03.36.04:991][344]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Core
+[2025.06.19-03.36.04:991][344]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.06.19-03.36.19:836][578]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.06.19-03.36.19:848][578]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.06.19-03.36.19:873][580]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.06.19-03.36.24:386][725]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Player
+[2025.06.19-03.36.24:386][725]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.06.19-03.36.40:577][833]LogSlate: Window '选取父类' being destroyed
+[2025.06.19-03.36.40:590][833]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.19-03.36.40:597][833]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.19-03.36.40:625][835]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.19-03.36.50:105][139]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GM
+[2025.06.19-03.36.50:322][139]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.19-03.37.24:219][336]LogSlate: Window '选取父类' being destroyed
+[2025.06.19-03.37.24:229][336]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.19-03.37.24:236][336]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.19-03.37.24:244][337]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.19-03.37.31:738][578]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PC
+[2025.06.19-03.37.31:952][578]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.19-03.38.03:311][828]LogSlate: Window '选取父类' being destroyed
+[2025.06.19-03.38.03:325][828]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.19-03.38.03:333][828]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.19-03.38.03:344][829]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.19-03.38.05:729][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 651.851196
+[2025.06.19-03.38.06:135][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-03.38.06:135][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 652.227539, Update Interval: 342.161316
+[2025.06.19-03.38.09:160][ 16]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pawn
+[2025.06.19-03.38.09:372][ 16]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.19-03.38.19:729][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.06.19-03.38.22:065][307]LogSlate: Window 'Delete Assets' being destroyed
+[2025.06.19-03.38.22:089][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.06.19-03.38.22:097][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.06.19-03.38.22:106][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.06.19-03.38.26:261][368]LogSlate: Window '选取父类' being destroyed
+[2025.06.19-03.38.26:286][368]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.19-03.38.26:291][368]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.19-03.38.26:301][369]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.19-03.38.32:610][579]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pawn
+[2025.06.19-03.38.32:815][579]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.19-03.38.40:340][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Core/Player/BP_GM.BP_GM
+[2025.06.19-03.38.40:341][640]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.06.19-03.38.40:426][640]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.19-03.38.41:490][640]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.06.19-03.38.44:334][729]LogSlate: Window 'BP_GM' being destroyed
+[2025.06.19-03.38.47:773][934]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.19-03.39.15:413][307]LogHttp: Warning: 000008E4ECEDF500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5143955B-475B-75B9-17E9-B08106AA9583%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=7b9c68c34969bee53caaa38ef5c7d63b%7C85bbed09b360480ca73d341d4fd5189d%7C3665a601-c35a-4890-bd59-092f39924fe1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.06.19-03.39.15:413][307]LogHttp: Warning: 000008E4ECEDF500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.06.19-03.39.15:413][307]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 0 (Found bundle for host: 0x8e46b040630 [serially])
+[2025.06.19-03.39.15:413][307]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.06.19-03.39.15:413][307]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.06.19-03.39.15:413][307]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.06.19-03.39.15:413][307]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2025.06.19-03.39.15:413][307]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 5 (Closing connection)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 7 (Recv failure: Connection was aborted)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5143955B-475B-75B9-17E9-B08106AA9583%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=7b9c68c34969bee53caaa38ef5c7d63b%7C85bbed09b360480ca73d341d4fd5189d%7C3665a601-c35a-4890-bd59-092f39924fe1&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 9 (  Trying 127.0.0.1:7890...)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 12 (allocate connect buffer)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 13 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 14 (CONNECT phase completed)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 17 (SSL reusing session ID)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 24 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 25 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 26 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 28 (Server certificate:)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 29 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 30 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 31 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 35 (using HTTP/1.1)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 37 (Closing connection)
+[2025.06.19-03.39.15:413][308]LogHttp: Warning: 000008E4ECEDF500: libcurl info message cache 38 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.06.19-03.39.34:998][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.06.19-03.39.35:149][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-03.39.35:192][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/Player/BP_GM] ([2] browsable assets)...
+[2025.06.19-03.39.35:192][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Player/BP_GM]
+[2025.06.19-03.39.35:192][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Player/BP_GM" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/Core/Player/BP_GM.uasset" SILENT=true
+[2025.06.19-03.39.35:195][222]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Player/BP_GM
+[2025.06.19-03.39.35:195][222]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/BP_GMD2AA18014911BEC20014CEAF2CA2C779.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/Core/Player/BP_GM.uasset'
+[2025.06.19-03.39.35:437][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 288.233 ms
+[2025.06.19-03.39.35:479][222]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-03.39.35:479][222]LogContentValidation: Enabled validators:
+[2025.06.19-03.39.35:479][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-03.39.35:479][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-03.39.35:479][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-03.39.35:479][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-03.39.35:479][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-03.39.35:479][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-03.39.35:480][222]AssetCheck: /Game/Blueprints/Core/Player/BP_GM 正在验证资产
+[2025.06.19-03.39.39:440][431]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-03.39.39:447][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-03.39.39:447][431]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-03.39.39:448][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2025.06.19-03.39.39:448][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001379s)
+[2025.06.19-03.39.39:474][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.19-03.39.39:476][431]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-03.39.39:478][431]LogPlayLevel: PIE: World Init took: (0.002006s)
+[2025.06.19-03.39.39:479][431]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.06.19-03.39.39:479][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-03.39.39:479][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-03.39.39:479][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-03.39.39:479][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-03.39.39:479][431]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-03.39.39:479][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-03.39.39:479][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-03.39.39:479][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-03.39.39:479][431]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-03.39.39:479][431]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-03.39.39:479][431]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-03.39.39:482][431]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-03.39.39:586][431]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-03.39.39:586][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-03.39.39:586][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-03.39.39:586][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-03.39.39:587][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.06.19-03.39.39:587][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.06.19-03.39.39:590][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.06.19-03.39.39:590][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.06.19-03.39.39:590][431]LogInit: FAudioDevice initialized with ID 3.
+[2025.06.19-03.39.39:590][431]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_Entry'.
+[2025.06.19-03.39.39:590][431]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.19-03.39.39:594][431]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-03.39.39:595][431]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-11.39.39
+[2025.06.19-03.39.39:595][431]LogWorld: Bringing up level for play took: 0.001242
+[2025.06.19-03.39.39:598][431]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.06.19-03.39.39:601][431]PIE: 登陆的服务器
+[2025.06.19-03.39.39:602][431]PIE: PIE总开始时间：0.158秒。
+[2025.06.19-03.39.52:246][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-03.39.52:246][833]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-03.39.52:246][833]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-03.39.52:246][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-03.39.52:265][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-03.39.52:270][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-03.39.52:284][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-03.39.52:284][833]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.19-03.39.52:284][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.06.19-03.39.52:287][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.06.19-03.39.52:294][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.06.19-03.39.52:313][834]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.06.19-03.39.55:913][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.06.19-03.39.57:010][939]LogSlate: Window '保存内容' being destroyed
+[2025.06.19-03.39.57:171][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-03.39.57:209][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/Player/BP_Pawn] ([2] browsable assets)...
+[2025.06.19-03.39.57:209][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Player/BP_Pawn]
+[2025.06.19-03.39.57:209][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Player/BP_Pawn" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/Core/Player/BP_Pawn.uasset" SILENT=true
+[2025.06.19-03.39.57:211][939]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Player/BP_Pawn
+[2025.06.19-03.39.57:212][939]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/BP_Pawn8A5FDD8C44F5AD15CE0AF8A565825185.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/Core/Player/BP_Pawn.uasset'
+[2025.06.19-03.39.57:214][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/Player/BP_PC] ([2] browsable assets)...
+[2025.06.19-03.39.57:214][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Player/BP_PC]
+[2025.06.19-03.39.57:214][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Player/BP_PC" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/Core/Player/BP_PC.uasset" SILENT=true
+[2025.06.19-03.39.57:216][939]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Player/BP_PC
+[2025.06.19-03.39.57:216][939]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/BP_PCF78A462445CFEBEC9C93A1AD3D97EAC2.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/Core/Player/BP_PC.uasset'
+[2025.06.19-03.39.57:458][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 286.559 ms (total: 574.793 ms)
+[2025.06.19-03.39.57:511][939]LogContentValidation: Display: Starting to validate 2 assets
+[2025.06.19-03.39.57:511][939]LogContentValidation: Enabled validators:
+[2025.06.19-03.39.57:511][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-03.39.57:511][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-03.39.57:511][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-03.39.57:511][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-03.39.57:511][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-03.39.57:511][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-03.39.57:511][939]AssetCheck: /Game/Blueprints/Core/Player/BP_Pawn 正在验证资产
+[2025.06.19-03.39.57:511][939]AssetCheck: /Game/Blueprints/Core/Player/BP_PC 正在验证资产
+[2025.06.19-03.40.33:647][518]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Core/Player/BP_PC.BP_PC
+[2025.06.19-03.40.33:648][518]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.06.19-03.41.09:573][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.06.19-03.41.09:574][636]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.032
+[2025.06.19-03.41.09:575][636]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/Player/BP_PC] ([2] browsable assets)...
+[2025.06.19-03.41.09:575][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Player/BP_PC]
+[2025.06.19-03.41.09:577][636]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Core/Player/BP_PC_Auto1
+[2025.06.19-03.41.09:577][636]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/BP_PC_Auto150447DA244E6756DE57BAF9B69AFCA48.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Blueprints/Core/Player/BP_PC_Auto1.uasset'
+[2025.06.19-03.41.09:578][636]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.06.19-03.42.12:778][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.06.19-03.42.12:925][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-03.42.12:966][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Core/Player/BP_PC] ([2] browsable assets)...
+[2025.06.19-03.42.12:966][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Core/Player/BP_PC]
+[2025.06.19-03.42.12:966][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/Player/BP_PC" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/Core/Player/BP_PC.uasset" SILENT=true
+[2025.06.19-03.42.12:970][407]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/Player/BP_PC
+[2025.06.19-03.42.12:970][407]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/BP_PC2D6A5CA04174B036E67FDC8CCE0F7604.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/Core/Player/BP_PC.uasset'
+[2025.06.19-03.42.12:981][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.776 ms (total: 630.569 ms)
+[2025.06.19-03.42.13:031][407]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-03.42.13:031][407]LogContentValidation: Enabled validators:
+[2025.06.19-03.42.13:031][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-03.42.13:031][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-03.42.13:031][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-03.42.13:031][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-03.42.13:031][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-03.42.13:031][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-03.42.13:031][407]AssetCheck: /Game/Blueprints/Core/Player/BP_PC 正在验证资产
+[2025.06.19-03.42.13:964][462]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-03.42.13:969][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-03.42.13:969][462]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-03.42.13:970][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001206s)
+[2025.06.19-03.42.13:970][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001243s)
+[2025.06.19-03.42.13:984][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.06.19-03.42.13:986][462]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-03.42.13:988][462]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2025.06.19-03.42.13:988][462]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.06.19-03.42.13:988][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-03.42.13:988][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-03.42.13:988][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-03.42.13:988][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-03.42.13:988][462]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-03.42.13:988][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-03.42.13:988][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-03.42.13:988][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-03.42.13:988][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-03.42.13:988][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-03.42.13:988][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-03.42.13:991][462]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-03.42.14:082][462]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-03.42.14:082][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-03.42.14:082][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-03.42.14:083][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-03.42.14:084][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.06.19-03.42.14:084][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.06.19-03.42.14:085][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.06.19-03.42.14:085][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.06.19-03.42.14:085][462]LogInit: FAudioDevice initialized with ID 4.
+[2025.06.19-03.42.14:085][462]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_Entry'.
+[2025.06.19-03.42.14:086][462]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.19-03.42.14:122][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-03.42.14:123][462]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-03.42.14:124][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-11.42.14
+[2025.06.19-03.42.14:124][462]LogWorld: Bringing up level for play took: 0.000706
+[2025.06.19-03.42.14:127][462]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.06.19-03.42.14:131][462]PIE: 登陆的服务器
+[2025.06.19-03.42.14:132][462]PIE: PIE总开始时间：0.162秒。
+[2025.06.19-03.42.17:161][539]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-03.42.21:069][682]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-03.42.35:615][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-03.42.35:615][205]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-03.42.35:615][205]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-03.42.35:697][205]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-03.42.35:698][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-03.42.35:702][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-03.42.35:708][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-03.42.35:722][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.19-03.42.35:722][205]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.19-03.42.35:722][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.06.19-03.42.35:725][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.06.19-03.42.35:733][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.06.19-03.42.35:745][206]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.06.19-03.43.55:606][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1001.731079
+[2025.06.19-03.43.56:939][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-03.43.56:939][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1002.731384, Update Interval: 337.354645
