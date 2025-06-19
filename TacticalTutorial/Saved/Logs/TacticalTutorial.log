@@ -5916,3 +5916,1413 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.06.19-05.18.15:116][137]LogHttp: Warning: 000008E553CAD900: libcurl info message cache 36 (necessary data rewind wasn't possible)
 [2025.06.19-05.18.15:116][137]LogHttp: Warning: 000008E553CAD900: libcurl info message cache 37 (Closing connection)
 [2025.06.19-05.18.15:116][137]LogHttp: Warning: 000008E553CAD900: libcurl info message cache 38 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.06.19-05.21.25:319][170]LogSlate: Window '查看变更' being destroyed
+[2025.06.19-05.21.25:332][170]LogSlate: Window '查看变更' being destroyed
+[2025.06.19-05.21.43:255][215]LogSlate: Window '版本控制登录' being destroyed
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Content: 'E:/Unreal Engine/UE_5.5/Engine/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:989][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Fab/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/ChaosVD/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.54:990][903]SourceControl: fatal: E:/Unreal Engine/UE_5.5/Engine/Plugins/Bridge/Content: 'E:/Unreal Engine/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'E:/GitHub/Tactical'
+[2025.06.19-05.21.55:175][903]EditorErrors: Warning: 没有要迁入的资产！
+[2025.06.19-05.22.00:354][201]LogSlate: Window '消息日志' being destroyed
+[2025.06.19-05.22.00:364][201]LogSlate: Window '消息日志' being destroyed
+[2025.06.19-05.22.13:558][603]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.06.19-05.22.13:566][603]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.06.19-05.22.13:575][604]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.06.19-05.22.16:822][665]LogContentBrowser: Attempting asset rename: 新建文件夹 -> 新建文件夹
+[2025.06.19-05.22.16:822][665]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.06.19-05.22.28:673][ 30]LogContentBrowser: Attempting asset rename: 新建文件夹 -> DebugMenu
+[2025.06.19-05.22.41:417][399]LogSlate: Window '为新控件蓝图选择父类' being destroyed
+[2025.06.19-05.22.41:433][399]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.06.19-05.22.41:440][399]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.06.19-05.22.41:470][401]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.06.19-05.22.50:000][659]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_DebugMenu
+[2025.06.19-05.22.50:236][659]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.06.19-05.22.53:474][761]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2025.06.19-05.22.53:474][761]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.06.19-05.22.53:514][761]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.06.19-05.22.53:522][761]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+空格键]
+[2025.06.19-05.22.53:721][761]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.06.19-05.22.53:722][761]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.06.19-05.22.54:014][761]LogSlateStyle: Warning: 缺失来自“CoreStyle”的资源 样式：“未能找到Slate颜色“Foreground”。”
+[2025.06.19-05.23.29:661][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6975.745117
+[2025.06.19-05.23.30:993][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-05.23.30:994][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6976.745117, Update Interval: 337.905823
+[2025.06.19-05.23.35:465][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.06.19-05.23.35:470][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.097
+[2025.06.19-05.23.35:471][734]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.23.35:477][734]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.23.35:477][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.23.35:483][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto6
+[2025.06.19-05.23.35:483][734]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu_Auto6A467451048BBF207D43F0783615B0E38.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto6.uasset'
+[2025.06.19-05.23.35:484][734]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.06.19-05.25.22:689][391]LogSlate: Window '选取父类' being destroyed
+[2025.06.19-05.25.22:703][391]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.19-05.25.22:711][391]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.19-05.25.22:722][392]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.19-05.25.33:241][709]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DebugMenu
+[2025.06.19-05.25.33:463][709]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.19-05.25.34:337][758]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu
+[2025.06.19-05.25.34:338][758]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.06.19-05.25.41:399][149]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 85b...89d
+[2025.06.19-05.25.41:399][149]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.06.19-05.25.41:883][165]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 85b...89d Access[Expires: 2025.06.19-07.25.42 Remaining: 7200.91] Refresh[Expires: 2025-12-16T01:59:13.028Z Remaining: 15539611.03] State: Valid
+[2025.06.19-05.27.07:781][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.06.19-05.27.07:991][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.27.08:029][  2]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/DebugMenu/BP_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.27.08:029][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/BP_DebugMenu]
+[2025.06.19-05.27.08:029][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/BP_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/BP_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.27.08:033][  2]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/BP_DebugMenu
+[2025.06.19-05.27.08:033][  2]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/BP_DebugMenu54CCA10B4AE486F2CAACE2AC482AC89C.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/BP_DebugMenu.uasset'
+[2025.06.19-05.27.08:036][  2]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.27.08:038][  2]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.27.08:038][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.27.08:038][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.27.08:040][  2]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.27.08:040][  2]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenuFB4403CF494A8DBB3C1AF2A3E762DF4E.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.27.08:274][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 283.828 ms (total: 5.14 sec)
+[2025.06.19-05.27.08:326][  2]LogContentValidation: Display: Starting to validate 2 assets
+[2025.06.19-05.27.08:326][  2]LogContentValidation: Enabled validators:
+[2025.06.19-05.27.08:326][  2]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.27.08:326][  2]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.27.08:326][  2]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.27.08:326][  2]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.27.08:326][  2]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.27.08:326][  2]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.27.08:326][  2]AssetCheck: /Game/Blueprints/DebugMenu/BP_DebugMenu 正在验证资产
+[2025.06.19-05.27.08:327][  2]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.27.24:913][920]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu_C
+[2025.06.19-05.27.24:913][920]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu_C
+[2025.06.19-05.27.24:914][920]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu as actor: BP_DebugMenu_C /Game/Maps/L_Entry.L_Entry:PersistentLevel.BP_DebugMenu_C_0
+[2025.06.19-05.27.24:915][920]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu as actor: BP_DebugMenu_C /Game/Maps/L_Entry.L_Entry:PersistentLevel.BP_DebugMenu_C_0
+[2025.06.19-05.27.25:501][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.06.19-05.27.25:504][944]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.06.19-05.27.25:513][944]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu_C
+[2025.06.19-05.27.25:514][944]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu_C
+[2025.06.19-05.27.25:515][944]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu as actor: BP_DebugMenu_C /Game/Maps/L_Entry.L_Entry:PersistentLevel.BP_DebugMenu_C_1
+[2025.06.19-05.27.25:515][944]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu as actor: BP_DebugMenu_C /Game/Maps/L_Entry.L_Entry:PersistentLevel.BP_DebugMenu_C_1
+[2025.06.19-05.27.29:383][ 58]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-05.27.29:395][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-05.27.29:396][ 58]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.27.29:397][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001451s)
+[2025.06.19-05.27.29:397][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001490s)
+[2025.06.19-05.27.29:412][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.06.19-05.27.29:414][ 58]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-05.27.29:416][ 58]LogPlayLevel: PIE: World Init took: (0.001689s)
+[2025.06.19-05.27.29:416][ 58]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2025.06.19-05.27.29:416][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-05.27.29:416][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-05.27.29:416][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-05.27.29:416][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-05.27.29:416][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-05.27.29:416][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-05.27.29:416][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-05.27.29:416][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-05.27.29:416][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-05.27.29:416][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-05.27.29:416][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-05.27.29:420][ 58]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-05.27.29:530][ 58]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-05.27.29:530][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-05.27.29:530][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-05.27.29:530][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-05.27.29:532][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2025.06.19-05.27.29:532][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2025.06.19-05.27.29:535][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2025.06.19-05.27.29:535][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2025.06.19-05.27.29:535][ 58]LogInit: FAudioDevice initialized with ID 56.
+[2025.06.19-05.27.29:535][ 58]LogAudio: Display: Audio Device (ID: 56) registered with world 'L_Entry'.
+[2025.06.19-05.27.29:535][ 58]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2025.06.19-05.27.29:541][ 58]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-05.27.29:542][ 58]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-13.27.29
+[2025.06.19-05.27.29:542][ 58]LogWorld: Bringing up level for play took: 0.001070
+[2025.06.19-05.27.29:546][ 58]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.06.19-05.27.29:551][ 58]PIE: 登陆的服务器
+[2025.06.19-05.27.29:552][ 58]PIE: PIE总开始时间：0.164秒。
+[2025.06.19-05.27.31:074][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.27.31:074][ 94]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.27.31:074][ 94]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-05.27.31:074][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.27.31:100][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-05.27.31:109][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.27.31:128][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.27.31:129][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2025.06.19-05.27.31:129][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.06.19-05.27.31:132][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.06.19-05.27.31:138][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.19-05.27.31:178][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.06.19-05.27.45:106][626]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-05.27.45:112][626]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2025.06.19-05.27.45:377][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.27.45:418][626]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.27.45:420][626]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.27.45:420][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.27.45:420][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.27.45:423][626]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.27.45:423][626]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu8C37D6044EA25D59D8F2D99C102749AD.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.27.45:436][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.004 ms (total: 5.20 sec)
+[2025.06.19-05.27.45:471][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.06.19-05.27.45:472][626]LogPlayLevel: PlayLevel: Blueprint regeneration took 361 ms (1 blueprints)
+[2025.06.19-05.27.45:472][626]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.27.45:474][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001353s)
+[2025.06.19-05.27.45:474][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001389s)
+[2025.06.19-05.27.45:495][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.06.19-05.27.45:496][626]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-05.27.45:498][626]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2025.06.19-05.27.45:499][626]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2025.06.19-05.27.45:499][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-05.27.45:499][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-05.27.45:499][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-05.27.45:499][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-05.27.45:499][626]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-05.27.45:499][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-05.27.45:499][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-05.27.45:499][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-05.27.45:499][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-05.27.45:499][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-05.27.45:499][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-05.27.45:501][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-05.27.45:595][626]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-05.27.45:595][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-05.27.45:596][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-05.27.45:596][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-05.27.45:596][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2025.06.19-05.27.45:596][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2025.06.19-05.27.45:600][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2025.06.19-05.27.45:600][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2025.06.19-05.27.45:600][626]LogInit: FAudioDevice initialized with ID 57.
+[2025.06.19-05.27.45:600][626]LogAudio: Display: Audio Device (ID: 57) registered with world 'L_Entry'.
+[2025.06.19-05.27.45:600][626]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2025.06.19-05.27.45:630][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.27.45:632][626]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-05.27.45:632][626]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-13.27.45
+[2025.06.19-05.27.45:632][626]LogWorld: Bringing up level for play took: 0.000746
+[2025.06.19-05.27.45:635][626]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.06.19-05.27.45:640][626]PIE: 登陆的服务器
+[2025.06.19-05.27.45:643][626]PIE: PIE总开始时间：0.533秒。
+[2025.06.19-05.27.45:781][627]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-05.27.45:782][627]LogContentValidation: Enabled validators:
+[2025.06.19-05.27.45:782][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.27.45:782][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.27.45:782][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.27.45:782][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.27.45:782][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.27.45:782][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.27.45:782][627]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.27.46:794][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.27.46:794][667]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.27.46:794][667]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-05.27.46:864][667]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-05.27.46:864][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.27.46:870][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-05.27.46:875][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.27.46:893][667]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2025.06.19-05.27.46:894][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.06.19-05.27.46:897][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.06.19-05.27.46:910][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.06.19-05.27.46:948][668]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.06.19-05.28.01:859][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.06.19-05.28.02:017][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.28.02:069][901]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.28.02:072][901]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.28.02:072][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.28.02:072][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.28.02:074][901]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.28.02:074][901]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu75AB5AF24FCEDBAF0A883885F24C8953.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.28.02:087][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.377 ms (total: 5.27 sec)
+[2025.06.19-05.28.02:134][901]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-05.28.02:134][901]LogContentValidation: Enabled validators:
+[2025.06.19-05.28.02:134][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.28.02:134][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.28.02:134][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.28.02:134][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.28.02:134][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.28.02:134][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.28.02:135][901]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.29.09:352][692]LogDerivedDataCache: C:/Users/22496/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.19-05.29.42:260][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7348.327148
+[2025.06.19-05.29.42:669][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-05.29.42:669][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7348.719727, Update Interval: 325.390167
+[2025.06.19-05.31.38:405][757]SourceControl: Error: fatal: Invalid path 'E:/Unreal Engine/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.06.19-05.32.42:470][388]SourceControl: Error: fatal: Invalid path 'E:/Unreal Engine/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.06.19-05.33.44:460][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.06.19-05.33.44:463][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Entry" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Maps/L_Entry_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.06.19-05.33.44:470][615]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/L_Entry_Auto7
+[2025.06.19-05.33.44:470][615]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/L_Entry_Auto7991FBD0E4136B071FE7B00A3A3AED560.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Maps/L_Entry_Auto7.umap'
+[2025.06.19-05.33.44:472][615]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.042
+[2025.06.19-05.33.44:472][615]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2025.06.19-05.33.44:473][615]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.33.44:476][615]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.33.44:476][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.33.44:480][615]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto7
+[2025.06.19-05.33.44:480][615]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu_Auto721EFC39E40680C7C03FCB7A3BD51B2B6.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto7.uasset'
+[2025.06.19-05.33.44:482][615]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.06.19-05.35.39:031][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7705.083984
+[2025.06.19-05.35.40:043][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-05.35.40:043][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7705.752930, Update Interval: 347.495361
+[2025.06.19-05.36.32:809][206]LogSlate: Window '取色器' being destroyed
+[2025.06.19-05.36.38:925][572]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-05.36.38:930][572]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2025.06.19-05.36.39:196][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.36.39:245][572]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.36.39:249][572]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.36.39:249][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.36.39:249][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.36.39:253][572]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.36.39:254][572]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu85B8645643FA14A49EF7B5AE70AE808F.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.36.39:263][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.429 ms (total: 5.33 sec)
+[2025.06.19-05.36.39:290][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.06.19-05.36.39:294][572]LogPlayLevel: PlayLevel: Blueprint regeneration took 363 ms (1 blueprints)
+[2025.06.19-05.36.39:294][572]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.36.39:296][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001522s)
+[2025.06.19-05.36.39:296][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001564s)
+[2025.06.19-05.36.39:310][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.06.19-05.36.39:312][572]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-05.36.39:314][572]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2025.06.19-05.36.39:315][572]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2025.06.19-05.36.39:315][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-05.36.39:315][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-05.36.39:315][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-05.36.39:315][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-05.36.39:315][572]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-05.36.39:315][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-05.36.39:315][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-05.36.39:315][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-05.36.39:315][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-05.36.39:315][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-05.36.39:315][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-05.36.39:318][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-05.36.39:421][572]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-05.36.39:421][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-05.36.39:422][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-05.36.39:422][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-05.36.39:423][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2025.06.19-05.36.39:423][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2025.06.19-05.36.39:425][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2025.06.19-05.36.39:425][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2025.06.19-05.36.39:425][572]LogInit: FAudioDevice initialized with ID 58.
+[2025.06.19-05.36.39:425][572]LogAudio: Display: Audio Device (ID: 58) registered with world 'L_Entry'.
+[2025.06.19-05.36.39:425][572]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2025.06.19-05.36.39:460][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.36.39:461][572]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-05.36.39:462][572]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-13.36.39
+[2025.06.19-05.36.39:462][572]LogWorld: Bringing up level for play took: 0.000968
+[2025.06.19-05.36.39:465][572]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.06.19-05.36.39:470][572]PIE: 登陆的服务器
+[2025.06.19-05.36.39:473][572]PIE: PIE总开始时间：0.543秒。
+[2025.06.19-05.36.39:604][573]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-05.36.39:604][573]LogContentValidation: Enabled validators:
+[2025.06.19-05.36.39:605][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.36.39:605][573]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.36.39:605][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.36.39:605][573]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.36.39:605][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.36.39:605][573]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.36.39:605][573]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.36.52:724][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.36.52:724][ 52]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.36.52:725][ 52]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-05.36.52:785][ 52]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-05.36.52:786][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.36.52:792][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-05.36.52:802][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.36.52:823][ 52]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2025.06.19-05.36.52:823][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.06.19-05.36.52:827][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.06.19-05.36.52:833][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.19-05.36.52:870][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.06.19-05.40.07:059][390]LogEditorTransaction: Undo 移动控件
+[2025.06.19-05.42.13:559][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8099.602539
+[2025.06.19-05.42.14:560][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-05.42.14:560][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8100.271973, Update Interval: 317.988831
+[2025.06.19-05.45.27:369][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.06.19-05.45.27:377][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Entry" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Maps/L_Entry_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.06.19-05.45.27:384][ 47]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/L_Entry_Auto8
+[2025.06.19-05.45.27:384][ 47]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/L_Entry_Auto8BD9369E940661AECDA196087CD7BAE59.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Maps/L_Entry_Auto8.umap'
+[2025.06.19-05.45.27:385][ 47]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.117
+[2025.06.19-05.45.27:385][ 47]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
+[2025.06.19-05.45.27:386][ 47]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.45.27:390][ 47]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.45.27:392][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.45.27:397][ 47]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto8
+[2025.06.19-05.45.27:398][ 47]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu_Auto853296F044470A1054FD32FA03084A885.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto8.uasset'
+[2025.06.19-05.45.27:398][ 47]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.06.19-05.46.31:689][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.06.19-05.46.32:875][410]LogSlate: Window '保存内容' being destroyed
+[2025.06.19-05.46.33:105][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.46.33:150][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Entry" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Maps/L_Entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.19-05.46.33:169][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.06.19-05.46.33:176][410]LogSavePackage: Moving output files for package: /Game/Maps/L_Entry
+[2025.06.19-05.46.33:176][410]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/L_Entry2D0360AF4F5E4C13F48E90A980C9F1BF.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Maps/L_Entry.umap'
+[2025.06.19-05.46.33:180][410]LogFileHelpers: Saving map 'L_Entry' took 0.031
+[2025.06.19-05.46.33:180][410]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.46.33:183][410]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.46.33:183][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.46.33:183][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.46.33:187][410]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.46.33:187][410]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu15EB98B14F3075D821753A931C1DA4C4.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.46.33:200][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.615 ms (total: 5.43 sec)
+[2025.06.19-05.46.33:243][410]LogContentValidation: Display: Starting to validate 2 assets
+[2025.06.19-05.46.33:243][410]LogContentValidation: Enabled validators:
+[2025.06.19-05.46.33:243][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.46.33:243][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.46.33:243][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.46.33:244][410]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.46.33:244][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.46.33:244][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.46.33:244][410]AssetCheck: /Game/Maps/L_Entry 正在验证资产
+[2025.06.19-05.46.33:245][410]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.47.23:114][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.06.19-05.47.23:282][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.47.23:330][235]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.47.23:334][235]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.47.23:334][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.47.23:334][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.47.23:339][235]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.47.23:340][235]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenuEF73FB894A7D4670705424A6795FDAB2.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.47.23:352][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.728 ms (total: 5.50 sec)
+[2025.06.19-05.47.23:398][235]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-05.47.23:398][235]LogContentValidation: Enabled validators:
+[2025.06.19-05.47.23:398][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.47.23:398][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.47.23:398][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.47.23:398][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.47.23:398][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.47.23:398][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.47.23:399][235]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.47.23:920][263]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-05.47.23:926][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-05.47.23:926][263]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.47.23:927][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2025.06.19-05.47.23:927][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001381s)
+[2025.06.19-05.47.23:942][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.06.19-05.47.23:946][263]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-05.47.23:948][263]LogPlayLevel: PIE: World Init took: (0.001770s)
+[2025.06.19-05.47.23:948][263]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2025.06.19-05.47.23:948][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-05.47.23:948][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-05.47.23:948][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-05.47.23:948][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-05.47.23:948][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-05.47.23:948][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-05.47.23:948][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-05.47.23:948][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-05.47.23:948][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-05.47.23:948][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-05.47.23:948][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-05.47.23:951][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-05.47.24:055][263]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-05.47.24:055][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-05.47.24:055][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-05.47.24:055][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-05.47.24:056][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2025.06.19-05.47.24:056][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2025.06.19-05.47.24:058][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2025.06.19-05.47.24:058][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2025.06.19-05.47.24:058][263]LogInit: FAudioDevice initialized with ID 59.
+[2025.06.19-05.47.24:058][263]LogAudio: Display: Audio Device (ID: 59) registered with world 'L_Entry'.
+[2025.06.19-05.47.24:058][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2025.06.19-05.47.24:093][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.47.24:094][263]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-05.47.24:095][263]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-13.47.24
+[2025.06.19-05.47.24:095][263]LogWorld: Bringing up level for play took: 0.000932
+[2025.06.19-05.47.24:098][263]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.06.19-05.47.24:104][263]PIE: 登陆的服务器
+[2025.06.19-05.47.24:105][263]PIE: PIE总开始时间：0.18秒。
+[2025.06.19-05.47.39:733][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.47.39:733][860]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.47.39:734][860]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-05.47.39:810][860]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-05.47.39:811][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.47.39:816][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-05.47.39:822][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.47.39:838][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.19-05.47.39:838][860]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2025.06.19-05.47.39:838][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.06.19-05.47.39:842][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.06.19-05.47.39:849][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.06.19-05.47.39:877][861]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.06.19-05.48.10:730][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8456.696289
+[2025.06.19-05.48.11:162][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-05.48.11:162][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8457.112305, Update Interval: 316.091797
+[2025.06.19-05.48.20:628][934]SourceControl: Error: fatal: Invalid path 'E:/Unreal Engine/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.06.19-05.48.21:256][959]SourceControl: Error: fatal: Invalid path 'E:/Unreal Engine/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.06.19-05.48.21:885][984]SourceControl: Error: fatal: Invalid path 'E:/Unreal Engine/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.06.19-05.49.30:815][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.19-05.49.31:064][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.49.31:107][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.49.31:112][127]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.49.31:112][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.49.31:112][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.49.31:117][127]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.49.31:117][127]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu6DA2211E4CB4B064CD30669C31B741C9.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.49.31:130][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.378 ms (total: 5.57 sec)
+[2025.06.19-05.49.31:188][127]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-05.49.31:188][127]LogContentValidation: Enabled validators:
+[2025.06.19-05.49.31:188][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.49.31:188][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.49.31:188][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.49.31:188][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.49.31:188][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.49.31:188][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.49.31:189][127]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.49.31:638][148]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-05.49.31:642][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-05.49.31:643][148]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.49.31:644][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001398s)
+[2025.06.19-05.49.31:644][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001436s)
+[2025.06.19-05.49.31:662][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.06.19-05.49.31:667][148]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-05.49.31:668][148]LogPlayLevel: PIE: World Init took: (0.001802s)
+[2025.06.19-05.49.31:669][148]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2025.06.19-05.49.31:669][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-05.49.31:669][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-05.49.31:669][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-05.49.31:669][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-05.49.31:669][148]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-05.49.31:669][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-05.49.31:669][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-05.49.31:669][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-05.49.31:669][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-05.49.31:669][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-05.49.31:669][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-05.49.31:672][148]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-05.49.31:770][148]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-05.49.31:770][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-05.49.31:770][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-05.49.31:770][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-05.49.31:772][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2025.06.19-05.49.31:772][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2025.06.19-05.49.31:774][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2025.06.19-05.49.31:774][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2025.06.19-05.49.31:774][148]LogInit: FAudioDevice initialized with ID 60.
+[2025.06.19-05.49.31:774][148]LogAudio: Display: Audio Device (ID: 60) registered with world 'L_Entry'.
+[2025.06.19-05.49.31:774][148]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2025.06.19-05.49.31:808][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.49.31:808][148]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-05.49.31:809][148]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-13.49.31
+[2025.06.19-05.49.31:809][148]LogWorld: Bringing up level for play took: 0.000890
+[2025.06.19-05.49.31:812][148]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2025.06.19-05.49.31:819][148]PIE: 登陆的服务器
+[2025.06.19-05.49.31:821][148]PIE: PIE总开始时间：0.179秒。
+[2025.06.19-05.50.08:624][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.50.08:624][448]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.50.08:624][448]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-05.50.08:628][448]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-05.50.08:628][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.50.08:633][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-05.50.08:638][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.50.08:653][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.19-05.50.08:653][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2025.06.19-05.50.08:653][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.06.19-05.50.08:656][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.06.19-05.50.08:664][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.06.19-05.50.08:696][449]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2025.06.19-05.53.23:765][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.06.19-05.53.23:927][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.53.23:967][529]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.53.23:970][529]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.53.23:970][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.53.23:970][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.53.23:975][529]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.53.23:976][529]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu3545517549960E9B92251C8F14A14952.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.53.23:987][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.253 ms (total: 5.63 sec)
+[2025.06.19-05.53.24:020][529]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-05.53.24:020][529]LogContentValidation: Enabled validators:
+[2025.06.19-05.53.24:020][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.53.24:020][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.53.24:020][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.53.24:020][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.53.24:020][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.53.24:020][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.53.24:021][529]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.53.35:947][241]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-05.53.35:953][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-05.53.35:953][241]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.53.35:955][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001340s)
+[2025.06.19-05.53.35:955][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001371s)
+[2025.06.19-05.53.35:969][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.06.19-05.53.35:973][241]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-05.53.35:975][241]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2025.06.19-05.53.35:976][241]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2025.06.19-05.53.35:976][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-05.53.35:976][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-05.53.35:976][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-05.53.35:976][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-05.53.35:976][241]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-05.53.35:976][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-05.53.35:976][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-05.53.35:976][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-05.53.35:976][241]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-05.53.35:976][241]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-05.53.35:976][241]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-05.53.35:978][241]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-05.53.36:070][241]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-05.53.36:072][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-05.53.36:072][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-05.53.36:072][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-05.53.36:073][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2025.06.19-05.53.36:073][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2025.06.19-05.53.36:076][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2025.06.19-05.53.36:076][241]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2025.06.19-05.53.36:076][241]LogInit: FAudioDevice initialized with ID 61.
+[2025.06.19-05.53.36:076][241]LogAudio: Display: Audio Device (ID: 61) registered with world 'L_Entry'.
+[2025.06.19-05.53.36:077][241]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2025.06.19-05.53.36:108][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.53.36:108][241]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-05.53.36:109][241]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-13.53.36
+[2025.06.19-05.53.36:109][241]LogWorld: Bringing up level for play took: 0.000773
+[2025.06.19-05.53.36:111][241]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2025.06.19-05.53.36:116][241]PIE: 登陆的服务器
+[2025.06.19-05.53.36:118][241]PIE: PIE总开始时间：0.165秒。
+[2025.06.19-05.53.50:386][887]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-05.53.50:475][887]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-05.53.50:516][887]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-05.53.50:600][887]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-05.53.50:740][887]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.19-05.54.00:975][118]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8806.785156
+[2025.06.19-05.54.02:309][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-05.54.02:309][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8807.785156, Update Interval: 359.959717
+[2025.06.19-05.54.21:284][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.54.21:284][575]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.54.21:285][575]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-05.54.21:382][575]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-05.54.21:382][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.54.21:388][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-05.54.21:394][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.54.21:417][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.19-05.54.21:417][575]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2025.06.19-05.54.21:417][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.06.19-05.54.21:420][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.06.19-05.54.21:426][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.06.19-05.54.21:583][576]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2025.06.19-05.57.11:427][813]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-05.57.11:436][813]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2025.06.19-05.57.11:688][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-05.57.11:738][813]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-05.57.11:742][813]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-05.57.11:742][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-05.57.11:742][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-05.57.11:752][813]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-05.57.11:752][813]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenuDD96B9B14B1A9AD2346E599C88B9BC2B.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-05.57.11:766][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.861 ms (total: 5.70 sec)
+[2025.06.19-05.57.11:787][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.19-05.57.11:793][813]LogPlayLevel: PlayLevel: Blueprint regeneration took 359 ms (1 blueprints)
+[2025.06.19-05.57.11:793][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.57.11:795][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001800s)
+[2025.06.19-05.57.11:795][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001849s)
+[2025.06.19-05.57.11:816][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.19-05.57.11:818][813]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-05.57.11:820][813]LogPlayLevel: PIE: World Init took: (0.002335s)
+[2025.06.19-05.57.11:821][813]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2025.06.19-05.57.11:822][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-05.57.11:822][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-05.57.11:822][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-05.57.11:822][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-05.57.11:822][813]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-05.57.11:822][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-05.57.11:822][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-05.57.11:822][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-05.57.11:822][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-05.57.11:822][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-05.57.11:822][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-05.57.11:825][813]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-05.57.11:965][813]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-05.57.11:966][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-05.57.11:966][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-05.57.11:966][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-05.57.11:966][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2025.06.19-05.57.11:966][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2025.06.19-05.57.11:969][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2025.06.19-05.57.11:969][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2025.06.19-05.57.11:969][813]LogInit: FAudioDevice initialized with ID 62.
+[2025.06.19-05.57.11:969][813]LogAudio: Display: Audio Device (ID: 62) registered with world 'L_Entry'.
+[2025.06.19-05.57.11:969][813]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2025.06.19-05.57.12:009][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.57.12:009][813]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-05.57.12:011][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-13.57.12
+[2025.06.19-05.57.12:011][813]LogWorld: Bringing up level for play took: 0.000984
+[2025.06.19-05.57.12:014][813]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.06.19-05.57.12:020][813]PIE: 登陆的服务器
+[2025.06.19-05.57.12:021][813]PIE: PIE总开始时间：0.588秒。
+[2025.06.19-05.57.12:087][814]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-05.57.12:087][814]LogContentValidation: Enabled validators:
+[2025.06.19-05.57.12:087][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-05.57.12:087][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-05.57.12:087][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-05.57.12:087][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-05.57.12:087][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-05.57.12:087][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-05.57.12:087][814]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-05.57.24:043][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.57.24:043][236]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.57.24:044][236]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-05.57.24:132][236]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-05.57.24:133][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.57.24:138][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-05.57.24:147][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.57.24:165][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2025.06.19-05.57.24:165][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.06.19-05.57.24:167][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.06.19-05.57.24:174][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.06.19-05.57.24:205][237]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.06.19-05.57.34:788][872]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-05.57.34:793][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-05.57.34:794][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.57.34:795][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001384s)
+[2025.06.19-05.57.34:795][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001419s)
+[2025.06.19-05.57.34:809][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.06.19-05.57.34:811][872]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-05.57.34:813][872]LogPlayLevel: PIE: World Init took: (0.001637s)
+[2025.06.19-05.57.34:813][872]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2025.06.19-05.57.34:813][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-05.57.34:813][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-05.57.34:813][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-05.57.34:813][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-05.57.34:814][872]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-05.57.34:814][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-05.57.34:814][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-05.57.34:814][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-05.57.34:814][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-05.57.34:814][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-05.57.34:814][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-05.57.34:816][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-05.57.34:916][872]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-05.57.34:916][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-05.57.34:916][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-05.57.34:916][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-05.57.34:917][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2025.06.19-05.57.34:917][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2025.06.19-05.57.34:919][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2025.06.19-05.57.34:919][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2025.06.19-05.57.34:919][872]LogInit: FAudioDevice initialized with ID 63.
+[2025.06.19-05.57.34:919][872]LogAudio: Display: Audio Device (ID: 63) registered with world 'L_Entry'.
+[2025.06.19-05.57.34:919][872]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2025.06.19-05.57.34:954][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.57.34:955][872]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-05.57.34:956][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-13.57.34
+[2025.06.19-05.57.34:956][872]LogWorld: Bringing up level for play took: 0.000744
+[2025.06.19-05.57.34:958][872]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2025.06.19-05.57.34:963][872]PIE: 登陆的服务器
+[2025.06.19-05.57.34:964][872]PIE: PIE总开始时间：0.171秒。
+[2025.06.19-05.57.49:043][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-05.57.49:044][372]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-05.57.49:044][372]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-05.57.49:048][372]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-05.57.49:048][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.57.49:052][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-05.57.49:057][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-05.57.49:076][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2025.06.19-05.57.49:076][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.06.19-05.57.49:078][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.06.19-05.57.49:090][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.19-05.57.49:119][373]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2025.06.19-05.59.56:767][440]LogSlate: Window '取色器' being destroyed
+[2025.06.19-06.00.00:004][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.06.19-06.00.00:007][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.148
+[2025.06.19-06.00.00:008][604]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-06.00.00:011][604]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-06.00.00:011][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-06.00.00:018][604]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto9
+[2025.06.19-06.00.00:018][604]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu_Auto9ED745C2D4F085D914EC22A8379AF8BE4.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto9.uasset'
+[2025.06.19-06.00.00:019][604]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.06.19-06.00.09:368][156]LogSlate: Window '取色器' being destroyed
+[2025.06.19-06.00.17:478][266]LogSlate: Window '取色器' being destroyed
+[2025.06.19-06.00.37:585][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9203.311523
+[2025.06.19-06.00.38:585][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-06.00.38:585][389]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9203.985352, Update Interval: 329.138458
+[2025.06.19-06.02.10:083][285]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.02.10:090][285]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2025.06.19-06.02.10:266][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-06.02.10:311][285]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-06.02.10:315][285]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-06.02.10:315][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-06.02.10:315][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-06.02.10:323][285]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-06.02.10:323][285]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenuA08476374384FF519C0AD992B2F0F9FA.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-06.02.10:336][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.110 ms (total: 5.77 sec)
+[2025.06.19-06.02.10:394][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.19-06.02.10:398][285]LogPlayLevel: PlayLevel: Blueprint regeneration took 309 ms (1 blueprints)
+[2025.06.19-06.02.10:399][285]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.02.10:400][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001482s)
+[2025.06.19-06.02.10:400][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001524s)
+[2025.06.19-06.02.10:435][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.06.19-06.02.10:437][285]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.02.10:439][285]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2025.06.19-06.02.10:440][285]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2025.06.19-06.02.10:440][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.02.10:440][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.02.10:440][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.02.10:440][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.02.10:440][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.02.10:440][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.02.10:440][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.02.10:440][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.02.10:440][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.02.10:440][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.02.10:440][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.02.10:442][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.02.10:538][285]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.02.10:538][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.02.10:538][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.02.10:539][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.02.10:539][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2025.06.19-06.02.10:539][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2025.06.19-06.02.10:542][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2025.06.19-06.02.10:542][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2025.06.19-06.02.10:542][285]LogInit: FAudioDevice initialized with ID 64.
+[2025.06.19-06.02.10:542][285]LogAudio: Display: Audio Device (ID: 64) registered with world 'L_Entry'.
+[2025.06.19-06.02.10:543][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2025.06.19-06.02.10:585][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.02.10:585][285]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.02.10:586][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.02.10
+[2025.06.19-06.02.10:587][285]LogWorld: Bringing up level for play took: 0.000962
+[2025.06.19-06.02.10:589][285]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2025.06.19-06.02.10:594][285]PIE: 登陆的服务器
+[2025.06.19-06.02.10:594][285]PIE: PIE总开始时间：0.506秒。
+[2025.06.19-06.02.10:652][286]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-06.02.10:652][286]LogContentValidation: Enabled validators:
+[2025.06.19-06.02.10:652][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-06.02.10:652][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-06.02.10:652][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-06.02.10:652][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-06.02.10:652][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-06.02.10:652][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-06.02.10:653][286]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-06.02.23:124][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.02.23:124][749]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.02.23:125][749]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.02.23:194][749]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.02.23:195][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.02.23:199][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.02.23:207][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.02.23:226][749]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2025.06.19-06.02.23:226][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.06.19-06.02.23:229][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.06.19-06.02.23:236][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.06.19-06.02.23:272][750]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2025.06.19-06.03.17:255][272]LogEditorTransaction: Undo 粘贴剪切板内容
+[2025.06.19-06.06.53:116][207]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9578.688477
+[2025.06.19-06.06.53:432][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-06.06.53:432][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9578.989258, Update Interval: 302.797943
+[2025.06.19-06.07.05:759][966]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.07.05:766][966]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2025.06.19-06.07.05:990][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-06.07.06:033][966]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-06.07.06:037][966]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-06.07.06:037][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-06.07.06:037][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-06.07.06:046][966]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-06.07.06:047][966]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu440D092A48F7CD8B11FDCBAE0AFA159E.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-06.07.06:058][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.999 ms (total: 5.84 sec)
+[2025.06.19-06.07.06:075][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.06.19-06.07.06:078][966]LogPlayLevel: PlayLevel: Blueprint regeneration took 313 ms (1 blueprints)
+[2025.06.19-06.07.06:079][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.07.06:080][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001444s)
+[2025.06.19-06.07.06:080][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001486s)
+[2025.06.19-06.07.06:095][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.06.19-06.07.06:097][966]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.07.06:098][966]LogPlayLevel: PIE: World Init took: (0.001785s)
+[2025.06.19-06.07.06:099][966]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2025.06.19-06.07.06:099][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.07.06:099][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.07.06:099][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.07.06:099][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.07.06:099][966]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.07.06:099][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.07.06:099][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.07.06:099][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.07.06:099][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.07.06:099][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.07.06:099][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.07.06:102][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.07.06:199][966]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.07.06:200][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.07.06:200][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.07.06:200][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.07.06:200][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2025.06.19-06.07.06:200][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2025.06.19-06.07.06:204][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2025.06.19-06.07.06:204][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2025.06.19-06.07.06:204][966]LogInit: FAudioDevice initialized with ID 65.
+[2025.06.19-06.07.06:204][966]LogAudio: Display: Audio Device (ID: 65) registered with world 'L_Entry'.
+[2025.06.19-06.07.06:204][966]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2025.06.19-06.07.06:242][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.07.06:243][966]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.07.06:244][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.07.06
+[2025.06.19-06.07.06:244][966]LogWorld: Bringing up level for play took: 0.000853
+[2025.06.19-06.07.06:247][966]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2025.06.19-06.07.06:251][966]PIE: 登陆的服务器
+[2025.06.19-06.07.06:252][966]PIE: PIE总开始时间：0.487秒。
+[2025.06.19-06.07.06:321][967]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-06.07.06:321][967]LogContentValidation: Enabled validators:
+[2025.06.19-06.07.06:321][967]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-06.07.06:321][967]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-06.07.06:321][967]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-06.07.06:321][967]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-06.07.06:321][967]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-06.07.06:321][967]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-06.07.06:323][967]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-06.07.45:544][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.07.45:544][387]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.07.45:544][387]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.07.45:641][387]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.07.45:642][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.07.45:647][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.07.45:653][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.07.45:671][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2025.06.19-06.07.45:671][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.06.19-06.07.45:674][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.06.19-06.07.45:682][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.19-06.07.45:718][388]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2025.06.19-06.08.23:476][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.06.19-06.08.23:654][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-06.08.23:706][483]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-06.08.23:712][483]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-06.08.23:712][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-06.08.23:712][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-06.08.23:722][483]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-06.08.23:723][483]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu56F968634A33204AC1959A8686DA16A9.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-06.08.23:736][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.751 ms (total: 5.93 sec)
+[2025.06.19-06.08.23:785][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-06.08.23:785][483]LogContentValidation: Enabled validators:
+[2025.06.19-06.08.23:785][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-06.08.23:785][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-06.08.23:785][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-06.08.23:785][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-06.08.23:785][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-06.08.23:785][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-06.08.23:786][483]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-06.09.06:554][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.06.19-06.09.06:745][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-06.09.06:786][571]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-06.09.06:789][571]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-06.09.06:789][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-06.09.06:789][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-06.09.06:799][571]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-06.09.06:799][571]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu183BD4AB49D39C138B7B27B453D552A8.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-06.09.06:812][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.986 ms (total: 5.99 sec)
+[2025.06.19-06.09.06:854][571]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-06.09.06:855][571]LogContentValidation: Enabled validators:
+[2025.06.19-06.09.06:855][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-06.09.06:855][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-06.09.06:855][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-06.09.06:855][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-06.09.06:855][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-06.09.06:855][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-06.09.06:856][571]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-06.09.15:434][759]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.09.15:442][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-06.09.15:443][759]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.09.15:445][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002321s)
+[2025.06.19-06.09.15:445][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.002375s)
+[2025.06.19-06.09.15:468][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.19-06.09.15:474][759]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.09.15:476][759]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2025.06.19-06.09.15:476][759]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2025.06.19-06.09.15:476][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.09.15:476][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.09.15:476][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.09.15:476][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.09.15:476][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.09.15:476][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.09.15:476][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.09.15:476][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.09.15:476][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.09.15:476][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.09.15:476][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.09.15:479][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.09.15:621][759]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.09.15:622][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.09.15:622][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.09.15:622][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.09.15:623][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2025.06.19-06.09.15:623][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2025.06.19-06.09.15:629][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2025.06.19-06.09.15:629][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2025.06.19-06.09.15:629][759]LogInit: FAudioDevice initialized with ID 66.
+[2025.06.19-06.09.15:629][759]LogAudio: Display: Audio Device (ID: 66) registered with world 'L_Entry'.
+[2025.06.19-06.09.15:629][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2025.06.19-06.09.15:679][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.09.15:679][759]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.09.15:681][759]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.09.15
+[2025.06.19-06.09.15:681][759]LogWorld: Bringing up level for play took: 0.001442
+[2025.06.19-06.09.15:685][759]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2025.06.19-06.09.15:692][759]PIE: 登陆的服务器
+[2025.06.19-06.09.15:693][759]PIE: PIE总开始时间：0.252秒。
+[2025.06.19-06.09.18:013][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.09.18:013][832]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.09.18:014][832]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.09.18:098][832]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.09.18:098][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.09.18:103][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.09.18:110][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.09.18:127][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.19-06.09.18:127][832]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2025.06.19-06.09.18:127][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.06.19-06.09.18:129][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.06.19-06.09.18:135][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.06.19-06.09.18:167][833]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2025.06.19-06.09.18:768][869]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.09.18:773][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-06.09.18:774][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.09.18:775][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001352s)
+[2025.06.19-06.09.18:775][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001385s)
+[2025.06.19-06.09.18:790][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.06.19-06.09.18:793][869]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.09.18:795][869]LogPlayLevel: PIE: World Init took: (0.001666s)
+[2025.06.19-06.09.18:795][869]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2025.06.19-06.09.18:796][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.09.18:796][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.09.18:796][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.09.18:796][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.09.18:796][869]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.09.18:796][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.09.18:796][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.09.18:796][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.09.18:796][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.09.18:796][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.09.18:796][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.09.18:798][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.09.18:892][869]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.09.18:892][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.09.18:892][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.09.18:892][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.09.18:893][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2025.06.19-06.09.18:893][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2025.06.19-06.09.18:895][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2025.06.19-06.09.18:896][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2025.06.19-06.09.18:896][869]LogInit: FAudioDevice initialized with ID 67.
+[2025.06.19-06.09.18:896][869]LogAudio: Display: Audio Device (ID: 67) registered with world 'L_Entry'.
+[2025.06.19-06.09.18:896][869]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2025.06.19-06.09.18:932][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.09.18:932][869]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.09.18:933][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.09.18
+[2025.06.19-06.09.18:933][869]LogWorld: Bringing up level for play took: 0.000791
+[2025.06.19-06.09.18:936][869]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2025.06.19-06.09.18:941][869]PIE: 登陆的服务器
+[2025.06.19-06.09.18:943][869]PIE: PIE总开始时间：0.169秒。
+[2025.06.19-06.09.20:813][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.09.20:813][932]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.09.20:814][932]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.09.20:900][932]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.09.20:900][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.09.20:905][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.09.20:912][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.09.20:929][932]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2025.06.19-06.09.20:929][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.06.19-06.09.20:932][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.06.19-06.09.20:944][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.06.19-06.09.20:977][933]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2025.06.19-06.09.21:678][975]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.09.21:685][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-06.09.21:685][975]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.09.21:686][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001480s)
+[2025.06.19-06.09.21:686][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001515s)
+[2025.06.19-06.09.21:701][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.06.19-06.09.21:703][975]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.09.21:705][975]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2025.06.19-06.09.21:705][975]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2025.06.19-06.09.21:705][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.09.21:705][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.09.21:705][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.09.21:705][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.09.21:705][975]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.09.21:705][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.09.21:705][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.09.21:705][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.09.21:705][975]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.09.21:705][975]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.09.21:705][975]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.09.21:708][975]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.09.21:801][975]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.09.21:801][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.09.21:801][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.09.21:801][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.09.21:802][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2025.06.19-06.09.21:802][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2025.06.19-06.09.21:805][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2025.06.19-06.09.21:805][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2025.06.19-06.09.21:805][975]LogInit: FAudioDevice initialized with ID 68.
+[2025.06.19-06.09.21:805][975]LogAudio: Display: Audio Device (ID: 68) registered with world 'L_Entry'.
+[2025.06.19-06.09.21:805][975]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2025.06.19-06.09.21:844][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.09.21:845][975]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.09.21:846][975]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.09.21
+[2025.06.19-06.09.21:846][975]LogWorld: Bringing up level for play took: 0.000978
+[2025.06.19-06.09.21:849][975]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2025.06.19-06.09.21:855][975]PIE: 登陆的服务器
+[2025.06.19-06.09.21:858][975]PIE: PIE总开始时间：0.173秒。
+[2025.06.19-06.09.23:214][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.09.23:214][ 17]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.09.23:215][ 17]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.09.23:304][ 17]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.09.23:304][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.09.23:310][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.09.23:316][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.09.23:334][ 17]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2025.06.19-06.09.23:334][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.06.19-06.09.23:337][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.06.19-06.09.23:349][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.06.19-06.09.23:382][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2025.06.19-06.10.07:480][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.06.19-06.10.07:708][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-06.10.07:763][236]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-06.10.07:767][236]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-06.10.07:767][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-06.10.07:767][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-06.10.07:781][236]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-06.10.07:781][236]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu3D92A3AE4537BB33F09F16BFEE835BB3.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-06.10.07:795][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.963 ms (total: 6.08 sec)
+[2025.06.19-06.10.07:844][236]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-06.10.07:844][236]LogContentValidation: Enabled validators:
+[2025.06.19-06.10.07:844][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-06.10.07:844][236]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-06.10.07:844][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-06.10.07:844][236]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-06.10.07:844][236]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-06.10.07:844][236]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-06.10.07:845][236]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-06.10.08:266][257]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.10.08:271][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-06.10.08:271][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.10.08:273][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001400s)
+[2025.06.19-06.10.08:273][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001434s)
+[2025.06.19-06.10.08:287][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.06.19-06.10.08:290][257]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.10.08:293][257]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2025.06.19-06.10.08:293][257]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2025.06.19-06.10.08:293][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.10.08:293][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.10.08:293][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.10.08:293][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.10.08:293][257]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.10.08:293][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.10.08:293][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.10.08:293][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.10.08:293][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.10.08:293][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.10.08:293][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.10.08:296][257]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.10.08:396][257]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.10.08:396][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.10.08:396][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.10.08:396][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.10.08:397][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2025.06.19-06.10.08:397][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2025.06.19-06.10.08:399][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2025.06.19-06.10.08:399][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2025.06.19-06.10.08:399][257]LogInit: FAudioDevice initialized with ID 69.
+[2025.06.19-06.10.08:399][257]LogAudio: Display: Audio Device (ID: 69) registered with world 'L_Entry'.
+[2025.06.19-06.10.08:399][257]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2025.06.19-06.10.08:435][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.10.08:435][257]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.10.08:436][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.10.08
+[2025.06.19-06.10.08:436][257]LogWorld: Bringing up level for play took: 0.000918
+[2025.06.19-06.10.08:439][257]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2025.06.19-06.10.08:444][257]PIE: 登陆的服务器
+[2025.06.19-06.10.08:445][257]PIE: PIE总开始时间：0.175秒。
+[2025.06.19-06.10.11:324][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.10.11:324][357]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.10.11:324][357]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.10.11:395][357]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.10.11:395][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.10.11:400][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.10.11:407][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.10.11:426][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.19-06.10.11:426][357]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2025.06.19-06.10.11:426][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.06.19-06.10.11:428][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.06.19-06.10.11:440][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.19-06.10.11:470][358]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2025.06.19-06.11.14:372][ 40]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.11.14:378][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-06.11.14:378][ 40]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.11.14:380][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001585s)
+[2025.06.19-06.11.14:380][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001637s)
+[2025.06.19-06.11.14:395][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.06.19-06.11.14:398][ 40]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.11.14:400][ 40]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2025.06.19-06.11.14:400][ 40]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2025.06.19-06.11.14:400][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.11.14:400][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.11.14:400][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.11.14:400][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.11.14:400][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.11.14:400][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.11.14:400][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.11.14:400][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.11.14:400][ 40]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.11.14:400][ 40]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.11.14:400][ 40]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.11.14:404][ 40]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.11.14:499][ 40]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.11.14:499][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.11.14:499][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.11.14:499][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.11.14:500][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2025.06.19-06.11.14:500][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2025.06.19-06.11.14:502][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2025.06.19-06.11.14:502][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2025.06.19-06.11.14:502][ 40]LogInit: FAudioDevice initialized with ID 70.
+[2025.06.19-06.11.14:502][ 40]LogAudio: Display: Audio Device (ID: 70) registered with world 'L_Entry'.
+[2025.06.19-06.11.14:502][ 40]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2025.06.19-06.11.14:537][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.11.14:538][ 40]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.11.14:538][ 40]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.11.14
+[2025.06.19-06.11.14:539][ 40]LogWorld: Bringing up level for play took: 0.000776
+[2025.06.19-06.11.14:542][ 40]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2025.06.19-06.11.14:546][ 40]PIE: 登陆的服务器
+[2025.06.19-06.11.14:548][ 40]PIE: PIE总开始时间：0.17秒。
+[2025.06.19-06.11.25:933][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.11.25:933][451]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.11.25:934][451]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.11.26:017][451]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.11.26:017][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.11.26:022][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.11.26:030][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.11.26:049][451]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2025.06.19-06.11.26:049][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.06.19-06.11.26:052][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.06.19-06.11.26:058][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.06.19-06.11.26:089][452]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2025.06.19-06.11.26:638][485]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.11.26:643][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-06.11.26:643][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.11.26:644][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001350s)
+[2025.06.19-06.11.26:644][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001381s)
+[2025.06.19-06.11.26:658][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.06.19-06.11.26:660][485]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.11.26:662][485]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2025.06.19-06.11.26:663][485]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2025.06.19-06.11.26:663][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.11.26:663][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.11.26:663][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.11.26:663][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.11.26:663][485]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.11.26:663][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.11.26:663][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.11.26:663][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.11.26:663][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.11.26:663][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.11.26:663][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.11.26:665][485]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.11.26:760][485]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.11.26:760][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.11.26:760][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.11.26:760][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.11.26:760][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2025.06.19-06.11.26:760][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2025.06.19-06.11.26:763][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2025.06.19-06.11.26:763][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2025.06.19-06.11.26:763][485]LogInit: FAudioDevice initialized with ID 71.
+[2025.06.19-06.11.26:763][485]LogAudio: Display: Audio Device (ID: 71) registered with world 'L_Entry'.
+[2025.06.19-06.11.26:763][485]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2025.06.19-06.11.26:801][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.11.26:801][485]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.11.26:803][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.11.26
+[2025.06.19-06.11.26:803][485]LogWorld: Bringing up level for play took: 0.000767
+[2025.06.19-06.11.26:806][485]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.06.19-06.11.26:810][485]PIE: 登陆的服务器
+[2025.06.19-06.11.26:811][485]PIE: PIE总开始时间：0.169秒。
+[2025.06.19-06.11.27:704][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.11.27:704][510]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.11.27:704][510]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.11.27:782][510]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.11.27:782][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.11.27:788][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.11.27:794][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.11.27:812][510]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2025.06.19-06.11.27:812][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.06.19-06.11.27:815][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.06.19-06.11.27:827][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.19-06.11.27:859][511]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2025.06.19-06.11.53:235][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.06.19-06.11.53:237][700]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.018
+[2025.06.19-06.11.53:238][700]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-06.11.53:238][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-06.11.53:246][700]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto0
+[2025.06.19-06.11.53:246][700]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu_Auto01005521C4A4C927164B1D39CCE4DAC7D.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Saved/Autosaves/Game/Blueprints/DebugMenu/W_DebugMenu_Auto0.uasset'
+[2025.06.19-06.11.53:249][700]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.06.19-06.11.59:821][870]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.11.59:828][870]LogPlayLevel: [PlayLevel] Compiling W_DebugMenu before play...
+[2025.06.19-06.12.00:020][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.19-06.12.00:066][870]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2025.06.19-06.12.00:069][870]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu]
+[2025.06.19-06.12.00:069][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/W_DebugMenu]
+[2025.06.19-06.12.00:069][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/W_DebugMenu" FILE="../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset" SILENT=true
+[2025.06.19-06.12.00:079][870]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/W_DebugMenu
+[2025.06.19-06.12.00:079][870]LogSavePackage: Moving '../../../../../GitHub/Tactical/TacticalTutorial/Saved/W_DebugMenu2D76D1604ED27F66DDCFE0B97BC0DE64.tmp' to '../../../../../GitHub/Tactical/TacticalTutorial/Content/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2025.06.19-06.12.00:089][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.585 ms (total: 6.15 sec)
+[2025.06.19-06.12.00:108][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.19-06.12.00:112][870]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2025.06.19-06.12.00:112][870]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.12.00:114][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001397s)
+[2025.06.19-06.12.00:114][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001431s)
+[2025.06.19-06.12.00:131][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.06.19-06.12.00:133][870]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.12.00:134][870]LogPlayLevel: PIE: World Init took: (0.001770s)
+[2025.06.19-06.12.00:135][870]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2025.06.19-06.12.00:135][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.12.00:135][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.12.00:135][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.12.00:135][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.12.00:135][870]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.12.00:135][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.12.00:135][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.12.00:135][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.12.00:135][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.12.00:135][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.12.00:135][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.12.00:137][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.12.00:230][870]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.12.00:230][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.12.00:230][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.12.00:230][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.12.00:232][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2025.06.19-06.12.00:232][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2025.06.19-06.12.00:234][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2025.06.19-06.12.00:234][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2025.06.19-06.12.00:234][870]LogInit: FAudioDevice initialized with ID 72.
+[2025.06.19-06.12.00:234][870]LogAudio: Display: Audio Device (ID: 72) registered with world 'L_Entry'.
+[2025.06.19-06.12.00:234][870]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2025.06.19-06.12.00:271][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.12.00:271][870]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.12.00:272][870]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.12.00
+[2025.06.19-06.12.00:272][870]LogWorld: Bringing up level for play took: 0.000728
+[2025.06.19-06.12.00:275][870]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2025.06.19-06.12.00:279][870]PIE: 登陆的服务器
+[2025.06.19-06.12.00:280][870]PIE: PIE总开始时间：0.454秒。
+[2025.06.19-06.12.00:326][871]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.19-06.12.00:326][871]LogContentValidation: Enabled validators:
+[2025.06.19-06.12.00:326][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.19-06.12.00:326][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.19-06.12.00:326][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.19-06.12.00:326][871]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.19-06.12.00:326][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.19-06.12.00:326][871]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.19-06.12.00:327][871]AssetCheck: /Game/Blueprints/DebugMenu/W_DebugMenu 正在验证资产
+[2025.06.19-06.12.06:914][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.12.06:914][101]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.12.06:914][101]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.12.06:994][101]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.12.06:994][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.12.06:999][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.12.07:006][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.12.07:025][101]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 72
+[2025.06.19-06.12.07:025][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.06.19-06.12.07:027][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.06.19-06.12.07:039][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.06.19-06.12.07:073][102]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2025.06.19-06.12.07:573][132]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.06.19-06.12.07:579][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.19-06.12.07:579][132]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.12.07:580][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001430s)
+[2025.06.19-06.12.07:580][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001464s)
+[2025.06.19-06.12.07:595][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.06.19-06.12.07:597][132]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Entry
+[2025.06.19-06.12.07:599][132]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2025.06.19-06.12.07:599][132]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2025.06.19-06.12.07:599][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.19-06.12.07:599][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.19-06.12.07:599][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.19-06.12.07:599][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.19-06.12.07:599][132]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.19-06.12.07:599][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.19-06.12.07:599][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.19-06.12.07:599][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.19-06.12.07:599][132]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.19-06.12.07:599][132]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.19-06.12.07:599][132]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.19-06.12.07:602][132]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.19-06.12.07:693][132]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek(R) Audio)
+[2025.06.19-06.12.07:693][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.19-06.12.07:693][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.19-06.12.07:693][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.19-06.12.07:694][132]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2025.06.19-06.12.07:694][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2025.06.19-06.12.07:698][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2025.06.19-06.12.07:698][132]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2025.06.19-06.12.07:698][132]LogInit: FAudioDevice initialized with ID 73.
+[2025.06.19-06.12.07:698][132]LogAudio: Display: Audio Device (ID: 73) registered with world 'L_Entry'.
+[2025.06.19-06.12.07:698][132]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2025.06.19-06.12.07:732][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.12.07:732][132]LogLoad: Game class is 'BP_GM_C'
+[2025.06.19-06.12.07:733][132]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 60) at 2025.06.19-14.12.07
+[2025.06.19-06.12.07:733][132]LogWorld: Bringing up level for play took: 0.000769
+[2025.06.19-06.12.07:736][132]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.06.19-06.12.07:741][132]PIE: 登陆的服务器
+[2025.06.19-06.12.07:741][132]PIE: PIE总开始时间：0.164秒。
+[2025.06.19-06.12.08:684][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.19-06.12.08:684][159]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2025.06.19-06.12.08:684][159]LogSlate: Window 'TacticalTutorial 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2025.06.19-06.12.08:751][159]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2025.06.19-06.12.08:751][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.12.08:756][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.19-06.12.08:762][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.19-06.12.08:781][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2025.06.19-06.12.08:782][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.06.19-06.12.08:784][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.06.19-06.12.08:797][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.06.19-06.12.08:829][160]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.06.19-06.12.33:709][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9919.146484
+[2025.06.19-06.12.34:025][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.19-06.12.34:025][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9919.447266, Update Interval: 356.537354
